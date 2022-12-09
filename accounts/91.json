@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "green-talent-371116",
+  "private_key_id": "b49c59f637503d4edebe43044517b6adb627f598",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDESOgVDOuIBfMW\nPiAqTGzSWlXINpitOn4BUCrW7Ev/WQn5VaPc7OIX3iExSD25S8S40Khgg1qh7ly5\nHoncpQXCrfaxpl28aJDoJX7t8KhBANBfnYLMRS7qwWEMAc2WPvaW0wl8c/S9wYlT\nSdikDdg4GYQ8MW7bMJ/emYZ0ZN3qvg0QJtnYZ9TmV3NQE8oFKfSdyrsYsuruhxBY\nwa8X7mngLh1ddirn7z4GTTRLQsvaGcK+UsAmvA3cXbsWIZtAqfEmtpgrHkXyhLsl\nIVEJXHI3dmsW6ZmoI029ggaklD0f9QjrxktOAYcWNv8fiUp9LsJFhAILGIPSL1GU\nWNjQMKhtAgMBAAECggEAAjs18C9SahxvM/yGzxRJVGbUfM8qEyYMEqW/puvOvVtc\nwqnXkAZdV5od1HqWwQl8dgFhOJ+loxubkDsppAl4NEtX95MFk8O4ifsLI1dOAlcp\nBz06JGpQ6zhBiypmFOQoV3SUsgZ7bMDLd9fqD4tcvt6DY0/Ii9NUreoe3inbX/S+\nBI/UdFWZsEA2S5ymddnJj5WxdNGKrV5PY0YOMajPDRK20eTwNtpoybx42kOGwGXo\n73JZGB2v5FKO7pLXK5eHw55uiRExTmq/77hbivNuZjKXjFTya/vi9xFfIxQsDYw2\nk1Z6KnVBc2pBCRfJAvx9gSEHn61+eDLh/uitXrogXQKBgQDs+JnK0haSvGOcNJfZ\nKvKFCs2+/W5HbloxDT1xDVqJHt5uxQk3CEc8MPwM4s1mFda3BfsfCD8rtoxNZLi+\nnw365ieV2mUNlcfYngGSAgt5voO/dEPwTbdfi7PYCn8I4fdjfgFvtavEmAIs1prQ\n4ocw1nFk3GWz8CZAPVsWPUI0CwKBgQDUC+uMvBNl87GtPuVomueS1vBBr7blKe4S\no1UBUVz/YNVjee0WTsa2h5GNjiCEYAo7tHcOk2UrrhUI9z5XKBGz4aaqhQw/tmeL\nbfA8WGunKTrrO2PFNeQ3ZvORETbVf4gVmsP/Wq5yMrXeiUA4vNgxsY1fbjp+NLpP\nm3weLsQoZwKBgB4rqKkCBo24HpaMu6iSpz35Giju61N84U7NeL0kDhrXK0q/G2U+\nUJOBSRX66lvM/AFhaY+R5TkTjNltsXfTmFwRYYjavXL1VvRlaZ3FVOCzOOLvUpcN\nzgMELmmbLIFdA7pPGK+4WZ42HFDJIfzmWoAFTXqh9PDr6nLTXP1/3yXxAoGBAMiv\nx21ZC1rwe3amEmUgRo95EcZ5UTYuqv3Ey80FfmjM8ujFGpiEUhmq0R0SKMBgTQ8Y\ny51l7tiaV5o2ti+y4p5GsICuj1s1fWY+1KGoZaq9oN/FQ7YAPVAaBeeETUte+iLI\naTuiTXwTdoF5kOiiAlN14YEyR/XuXW6+j4fZZxl9AoGBAME2pTu9EaHLvME3rTzw\nt4biXaLKS+X0Z0gF3Iy8ceU0jRW9UcdzUkOXSLijqPPh+SmsMbhKDJBkI+rNLo9G\nlOKzlyFjh8rO2rZbvFGp0oTEr1NZqI1sact3usqmC/GTtPc7DPs1CKpjWi8y4k6E\nQU9LerFEzWFTK0utNMOorxOx\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-g0ne1n638l7da1r1jlg2yucigf@green-talent-371116.iam.gserviceaccount.com",
+  "client_id": "104752108838477763539",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-g0ne1n638l7da1r1jlg2yucigf%40green-talent-371116.iam.gserviceaccount.com"
+}
