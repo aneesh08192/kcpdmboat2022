@@ -1,6 +1,5 @@
 *auth_token.txt
 *.pyc
-data*
 .vscode
 .idea
 .netrc
